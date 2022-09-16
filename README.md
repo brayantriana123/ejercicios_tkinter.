@@ -8,4 +8,8 @@
 
 # Frame operaciones (botones)
 
-![frame operaciones](frame_operaciones.png "Frame operaciones")
+![frame_operaciones](frame_operaciones.png "Frame operaciones")
+
+# Frame resultados 
+
+![frame_resultados](frame_resultados.png "Frame operaciones")
